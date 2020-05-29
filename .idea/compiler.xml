@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="revisorWebPlatform-web" />
+        <module name="revisorEngine-pl" />
+        <module name="revisorPlatform-swing" />
+        <module name="revisorEngine-rdfs" />
+        <module name="revisorEngine-core" />
+        <module name="revisorEngine-plak" />
+        <module name="revisorWebPlatform-ejb" />
+        <module name="revisorWebPlatform-lib" />
+        <module name="revisorPlatform-applet" />
+        <module name="revisorWebPlatform-ear" />
+        <module name="revisorEngine-qa" />
+        <module name="revisorEngine-clc" />
+        <module name="revisorEngine-pcsfc" />
+        <module name="revisorUpdateTool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="revisor" target="1.5" />
+      <module name="revisorEngine" target="1.5" />
+      <module name="revisorEngine-clc" target="1.7" />
+      <module name="revisorEngine-core" target="1.7" />
+      <module name="revisorEngine-pcsfc" target="1.7" />
+      <module name="revisorEngine-pl" target="1.7" />
+      <module name="revisorEngine-plak" target="1.7" />
+      <module name="revisorEngine-qa" target="1.7" />
+      <module name="revisorEngine-rdfs" target="1.7" />
+      <module name="revisorPlatform" target="1.5" />
+      <module name="revisorPlatform-applet" target="1.7" />
+      <module name="revisorPlatform-swing" target="1.7" />
+      <module name="revisorPlatform-webstart" target="1.5" />
+      <module name="revisorUpdateTool" target="1.7" />
+      <module name="revisorWebPlatform" target="1.5" />
+      <module name="revisorWebPlatform-ear" target="1.7" />
+      <module name="revisorWebPlatform-ejb" target="1.7" />
+      <module name="revisorWebPlatform-lib" target="1.7" />
+      <module name="revisorWebPlatform-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

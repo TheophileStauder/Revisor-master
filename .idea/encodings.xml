@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-clc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-clc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-pcsfc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-pcsfc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-pl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-pl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-plak/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-plak/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-qa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorEngine/revisorEngine-qa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorPlatform/revisorPlatform-applet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorPlatform/revisorPlatform-swing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorPlatform/revisorPlatform-swing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorUpdateTool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorWebPlatform/revisorWebPlatform-ejb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorWebPlatform/revisorWebPlatform-ejb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorWebPlatform/revisorWebPlatform-lib/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorWebPlatform/revisorWebPlatform-lib/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/revisorWebPlatform/revisorWebPlatform-web/src/main/java" charset="UTF-8" />
+  </component>
+</project>
