@@ -1,3 +1,0 @@
-Here is the grammar for the Revisor PL console :
-
-[INSERT_GRAMMAR_HERE]
