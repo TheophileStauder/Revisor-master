@@ -1,2 +1,0 @@
-source := a & b
-target := !a | !b
